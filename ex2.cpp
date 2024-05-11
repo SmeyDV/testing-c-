@@ -15,5 +15,6 @@ int main(){
       cout << symbols;
     }
     cout << "\n";
+    cout<< "\n";
   }
 }
